@@ -1,0 +1,5 @@
+.vscode
+.vscode/*
+build/*.js
+lab/mslearn-typescript
+lab/mslearn-typescript/*
