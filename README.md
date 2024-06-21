@@ -15,5 +15,5 @@ $ npm -v # should print `10.7.0`
 $ npm install -g typescript
 $ tsc --init
 $ tsc # to transpile the .ts files
-$ node build/moduleXX.js
+$ node build/exerciseXX.js
 ```
